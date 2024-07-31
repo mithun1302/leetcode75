@@ -1,4 +1,3 @@
-package com.mithun.leetcode.arraysstrings;
 import java.util.*;
 public class program1431 {
     public static void main(String[] args) {
