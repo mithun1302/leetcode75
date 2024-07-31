@@ -1,5 +1,3 @@
-package com.mithun.leetcode;
-
 public class program643 {
     public static void main(String[] args) {
         int[] nums = {1,12,-5,-6,50,3};
