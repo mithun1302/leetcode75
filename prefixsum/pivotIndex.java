@@ -1,5 +1,3 @@
-package com.mithun.leetcode75.prefixsum;
-
 public class program724 {
     public static void main(String[] args) {
         int[] nums = {1,7,3,6,5,6};
