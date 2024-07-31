@@ -1,4 +1,4 @@
-public class program724 {
+public class pivotIndex {
     public static void main(String[] args) {
         int[] nums = {1,7,3,6,5,6};
         int sum = 0;
