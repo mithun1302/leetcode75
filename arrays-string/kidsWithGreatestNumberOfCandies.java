@@ -1,5 +1,5 @@
 import java.util.*;
-public class program1431 {
+public class kidsWithGreatestNumberOfCandies {
     public static void main(String[] args) {
         int[] candies = {1,7,1,8,4,2,1,1};
         int extraCandies = 1;
